@@ -9,13 +9,10 @@ margin: 0px;
 
 .containter {
     background-color: black;
-    background-image: url("assets/Annoying_Dog.gif");
-    background-repeat: repeat;
-    background-size: 10%;
-    height: 100%;
+    background-image: url("dog.gif") repeat;
     width: 100%;
-    -webkit-animation: backgroundScroll 20s linear infinite;
-    animation: backgroundScroll 20s linear infinite;
+    height: 100%;
+    
 }
 
 div {
